@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">國道計算器</string>
+    <string name="system">首頁</string>
+    <string name="rule">說明</string>
+    <string name="back">上頁</string>
+    <string name="next">下頁</string>
+    <string name="reload">重整</string>
+    <string name="email">寄信</string>
+
+</resources>
